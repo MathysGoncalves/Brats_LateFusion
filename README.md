@@ -4,6 +4,7 @@
 ## Overview
 Brain tumors are among the deadliest types of cancer. Specifically, glioblastoma, and diffuse astrocytic glioma with molecular features of glioblastoma (WHO Grade 4 astrocytoma), are the most common and aggressive malignant primary tumor of the central nervous system in adults, with extreme intrinsic heterogeneity in appearance, shape, and histology, with a median survival of approximately 15 months. Brain tumors in general are challenging to diagnose, hard to treat and inherently resistant to conventional therapy because of the challenges in delivering drugs to the brain, as well as the inherent high heterogeneity of these tumors in their radiographic, morphologic, and molecular landscapes. Years of extensive research to improve diagnosis, characterization, and treatment have decreased mortality rates in the U.S by 7% over the past 30 years.
 
+Only a notebook is presented because .py formats are more difficult to handle on platforms offering GPU.
 
 ## Data Description 
 The Brain Tumor Segmentation (BraTS) Continuous Challenge seeks to identify the current, state-of-the-art segmentation algorithms for brain diffuse glioma patients and their sub-regions.
